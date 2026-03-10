@@ -22,7 +22,7 @@ It loads the Titanic CSV dataset, performs **data cleaning**, stores it in a **S
 ---
 
 ## Technologies Used
-- Python 3.x
+- Python 3.13.7
 - Pandas
 - SQLite
 - Matplotlib
@@ -43,18 +43,15 @@ csv-data-pipeline/
 ---
 
 ## Install Dependencies
-1. Make sure you have **Python 3.x** installed.  
+1. Make sure you have **Python 3.13.7** installed.  
 2. Install the required Python libraries using `requirements.txt`:
-
-```bash
-pip install -r requirements.txt
 
 ## How to Run
 
 Clone this repository:
 
-git clone <your-github-repo-link>
-cd csv_to_db_project
+git clone https://github.com/sathwika-dasari/csv-to-database-titanic.git
+cd csv-data-pipeline
 
 Install dependencies (see above).
 
